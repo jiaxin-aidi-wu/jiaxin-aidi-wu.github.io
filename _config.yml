@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "IMG_9314.JPG"
   name             : "Jiaxin Wu"
-  pronouns         : "she/her"  
+  pronouns         : #
   bio              : "Collected thoughts and ongoing work."
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
