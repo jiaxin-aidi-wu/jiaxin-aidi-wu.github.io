@@ -10,7 +10,7 @@ redirect_from:
 # About Me
 
 <p align="center">
-  <img src="images/profile.PNG" width="200">
+  <img src="images/profile.PNG" width="700">
 </p>
 
 Hi! I’m Jiaxin Wu.  
