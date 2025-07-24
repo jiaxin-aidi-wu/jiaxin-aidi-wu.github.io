@@ -17,23 +17,20 @@ Education
 Inter experience
 ======
 * May 2025 – Aug 2025: Marketing Intern, Jiangsu Hengrui Pharmaceuticals Co., Ltd.
-  * Shanghai & Zhejiang Regional Marketing Department
-  * Responsibilities:
-    * Coordinated and executed 57 regional academic meetings (including 16 independently applied and organized), ensuring precise process control, timely material preparation, and improved compliance and efficiency.
-    * Conducted data analysis and visualization of key ADC product (艾维达) sales to support regional strategic adjustments.
+  * Coordinated 57 regional academic meetings with rigorous compliance, enhancing scientific communication.
+  * Conducted quantitative sales data analysis for ADC products to inform evidence-based strategic decisions.
 
 * Oct 2024 – May 2025: Bioinformatics Analyst, Shenzhen Tuoyun Biotechnology Co., Ltd.
-  * Responsibilities:
-    * Independently completed 6 analysis projects covering transcriptome, single-cell, and machine learning pipelines; performed data processing, visualization, and pipeline standardization using R to ensure accurate and efficient results.
-    * Presented complex bioinformatics results to clients, clearly explaining technical details and supporting non-specialists in understanding and adopting feasible solutions.
+  * Led 6 independent projects applying transcriptomic, single-cell, and machine learning analyses using R.
+  * Delivered clear, technical presentations translating complex bioinformatics results for multidisciplinary audiences.
 
 * Sep 2021 – Jun 2022: Visiting Student, Kunming Institute of Zoology, Chinese Academy of Sciences
-  * Actively contributed to precise management of the laboratory and animal facility, ensuring stable and safe experimental conditions.
-  * Proficiently mastered core molecular biology techniques including PCR, DNA extraction, and genotyping, and independently carried out routine lab experiments.
+  * Performed core molecular biology techniques (PCR, DNA extraction, genotyping) independently in lab.
+  * Contributed to maintaining high-standard experimental conditions in animal facility management.
 
 * Aug 2019 – Sep 2019: Intern, San Antonio Museum of Art, USA
-  * Assisted in reviewing exhibition materials and producing public installations, enhancing cross-cultural communication and project collaboration skills.
-  
+  * Supported cross-cultural projects by curating exhibition materials and public science communication.
+
 Skills
 ======
 * Languages
@@ -51,7 +48,7 @@ Skills
   * Western blot (WB)
   * Cell culture
 
-Publications
+Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
