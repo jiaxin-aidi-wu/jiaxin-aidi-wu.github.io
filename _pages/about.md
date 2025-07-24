@@ -15,10 +15,10 @@ I enjoy exploring ideas and sharing what I find interesting.
 This site is a place to share my work and thoughts.  
 You’ll find:
 
-- **[Projects]** — highlights of projects I’ve worked on, including research and other collaborations.
-- **[Portfolio]** — a collection of visualizations and figures I’ve made along the way.
-- **[Blog]** — notes and reflections from my analysis workflows and paper readings.
-- **[CV]** — a more formal overview of my academic background.
+- **Projects** — highlights of projects I’ve worked on, including research and other collaborations.
+- **Portfolio** — a collection of visualizations and figures I’ve made along the way.
+- **Blog** — notes and reflections from my analysis workflows and paper readings.
+- **CV** — a more formal overview of my academic background.
 
 Thanks for stopping by!
 
